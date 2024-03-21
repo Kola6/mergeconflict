@@ -1,0 +1,9 @@
+test file created for github checking - merge conflict resolved
+
+
+test file for merge conflict2 - merge confli resolved
+
+
+merge conflict purpose testing and added content212 - resolved
+
+all good now

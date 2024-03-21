@@ -3,5 +3,9 @@ test file created for github checking!
 
 test file for merge conflict
 
+<<<<<<< HEAD
 
 merge conflict purpose testing and added content
+=======
+test again
+>>>>>>> kolabranch
